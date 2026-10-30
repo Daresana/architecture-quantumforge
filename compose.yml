@@ -1,0 +1,25 @@
+services:
+  bot:
+    build: .
+    image: quantumforge-rag:local
+    stdin_open: true
+    tty: true
+    network_mode: none
+    read_only: true
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    mem_limit: 12g
+    cpus: 4
+    pids_limit: 128
+    environment:
+      MODEL_DIR: /models
+      HF_HUB_OFFLINE: "1"
+      TRANSFORMERS_OFFLINE: "1"
+      HF_HOME: /tmp/huggingface
+      TOKENIZERS_PARALLELISM: "false"
+    volumes:
+      - ./models:/models:ro
+    tmpfs:
+      - /tmp:size=256m

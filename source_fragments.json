@@ -1,0 +1,242 @@
+[
+    {
+        "id": "01",
+        "title": "Люк Скайуокер",
+        "url": "https://en.wikipedia.org/wiki/Luke_Skywalker",
+        "source_file": "raw_pages/01.txt",
+        "start": 262,
+        "end": 1091
+    },
+    {
+        "id": "02",
+        "title": "Принцесса Лея",
+        "url": "https://en.wikipedia.org/wiki/Princess_Leia",
+        "source_file": "raw_pages/02.txt",
+        "start": 280,
+        "end": 1124
+    },
+    {
+        "id": "03",
+        "title": "Хан Соло",
+        "url": "https://en.wikipedia.org/wiki/Han_Solo",
+        "source_file": "raw_pages/03.txt",
+        "start": 953,
+        "end": 1796
+    },
+    {
+        "id": "04",
+        "title": "Чубакка",
+        "url": "https://en.wikipedia.org/wiki/Chewbacca",
+        "source_file": "raw_pages/04.txt",
+        "start": 98,
+        "end": 914
+    },
+    {
+        "id": "05",
+        "title": "Дарт Вейдер",
+        "url": "https://en.wikipedia.org/wiki/Darth_Vader",
+        "source_file": "raw_pages/05.txt",
+        "start": 387,
+        "end": 1195
+    },
+    {
+        "id": "06",
+        "title": "Оби-Ван Кеноби",
+        "url": "https://en.wikipedia.org/wiki/Obi-Wan_Kenobi",
+        "source_file": "raw_pages/06.txt",
+        "start": 3664,
+        "end": 4489
+    },
+    {
+        "id": "07",
+        "title": "Йода",
+        "url": "https://en.wikipedia.org/wiki/Yoda",
+        "source_file": "raw_pages/07.txt",
+        "start": 61,
+        "end": 843
+    },
+    {
+        "id": "08",
+        "title": "Палпатин",
+        "url": "https://en.wikipedia.org/wiki/Palpatine",
+        "source_file": "raw_pages/08.txt",
+        "start": 757,
+        "end": 1599
+    },
+    {
+        "id": "09",
+        "title": "R2-D2",
+        "url": "https://en.wikipedia.org/wiki/R2-D2",
+        "source_file": "raw_pages/09.txt",
+        "start": 2263,
+        "end": 3035
+    },
+    {
+        "id": "10",
+        "title": "C-3PO",
+        "url": "https://en.wikipedia.org/wiki/C-3PO",
+        "source_file": "raw_pages/10.txt",
+        "start": 4264,
+        "end": 5033
+    },
+    {
+        "id": "11",
+        "title": "Боба Фетт",
+        "url": "https://en.wikipedia.org/wiki/Boba_Fett",
+        "source_file": "raw_pages/11.txt",
+        "start": 11557,
+        "end": 12355
+    },
+    {
+        "id": "12",
+        "title": "Джабба Хатт",
+        "url": "https://en.wikipedia.org/wiki/Jabba_the_Hutt",
+        "source_file": "raw_pages/12.txt",
+        "start": 95,
+        "end": 891
+    },
+    {
+        "id": "13",
+        "title": "Лэндо Калриссиан",
+        "url": "https://en.wikipedia.org/wiki/Lando_Calrissian",
+        "source_file": "raw_pages/13.txt",
+        "start": 3928,
+        "end": 4739
+    },
+    {
+        "id": "14",
+        "title": "Рей",
+        "url": "https://en.wikipedia.org/wiki/Rey_%28Star_Wars%29",
+        "source_file": "raw_pages/14.txt",
+        "start": 353,
+        "end": 1174
+    },
+    {
+        "id": "15",
+        "title": "Финн",
+        "url": "https://en.wikipedia.org/wiki/Finn_%28Star_Wars%29",
+        "source_file": "raw_pages/15.txt",
+        "start": 140,
+        "end": 948
+    },
+    {
+        "id": "16",
+        "title": "По Дэмерон",
+        "url": "https://en.wikipedia.org/wiki/Poe_Dameron",
+        "source_file": "raw_pages/16.txt",
+        "start": 161,
+        "end": 920
+    },
+    {
+        "id": "17",
+        "title": "Кайло Рен",
+        "url": "https://en.wikipedia.org/wiki/Kylo_Ren",
+        "source_file": "raw_pages/17.txt",
+        "start": 523,
+        "end": 1311
+    },
+    {
+        "id": "18",
+        "title": "Верховный лидер Сноук",
+        "url": "https://en.wikipedia.org/wiki/Supreme_Leader_Snoke",
+        "source_file": "raw_pages/18.txt",
+        "start": 94,
+        "end": 926
+    },
+    {
+        "id": "19",
+        "title": "Маз Каната",
+        "url": "https://en.wikipedia.org/wiki/Maz_Kanata",
+        "source_file": "raw_pages/19.txt",
+        "start": 4081,
+        "end": 4852
+    },
+    {
+        "id": "20",
+        "title": "Падме Амидала",
+        "url": "https://en.wikipedia.org/wiki/Padm%C3%A9_Amidala",
+        "source_file": "raw_pages/20.txt",
+        "start": 419,
+        "end": 1223
+    },
+    {
+        "id": "21",
+        "title": "Квай-Гон Джинн",
+        "url": "https://en.wikipedia.org/wiki/Qui-Gon_Jinn",
+        "source_file": "raw_pages/21.txt",
+        "start": 510,
+        "end": 1342
+    },
+    {
+        "id": "22",
+        "title": "Мейс Винду",
+        "url": "https://en.wikipedia.org/wiki/Mace_Windu",
+        "source_file": "raw_pages/22.txt",
+        "start": 412,
+        "end": 1281
+    },
+    {
+        "id": "23",
+        "title": "Граф Дуку",
+        "url": "https://en.wikipedia.org/wiki/Count_Dooku",
+        "source_file": "raw_pages/23.txt",
+        "start": 682,
+        "end": 1490
+    },
+    {
+        "id": "24",
+        "title": "Генерал Гривус",
+        "url": "https://en.wikipedia.org/wiki/General_Grievous",
+        "source_file": "raw_pages/24.txt",
+        "start": 526,
+        "end": 1407
+    },
+    {
+        "id": "25",
+        "title": "Асока Тано",
+        "url": "https://en.wikipedia.org/wiki/Ahsoka_Tano",
+        "source_file": "raw_pages/25.txt",
+        "start": 8490,
+        "end": 9304
+    },
+    {
+        "id": "26",
+        "title": "Капитан Рекс",
+        "url": "https://en.wikipedia.org/wiki/Captain_Rex",
+        "source_file": "raw_pages/26.txt",
+        "start": 257,
+        "end": 1049
+    },
+    {
+        "id": "27",
+        "title": "Эзра Бриджер",
+        "url": "https://en.wikipedia.org/wiki/Ezra_Bridger",
+        "source_file": "raw_pages/27.txt",
+        "start": 350,
+        "end": 1176
+    },
+    {
+        "id": "28",
+        "title": "Сабин Врен",
+        "url": "https://en.wikipedia.org/wiki/Sabine_Wren",
+        "source_file": "raw_pages/28.txt",
+        "start": 1229,
+        "end": 2048
+    },
+    {
+        "id": "30",
+        "title": "Гранд-адмирал Траун",
+        "url": "https://en.wikipedia.org/wiki/Grand_Admiral_Thrawn",
+        "source_file": "raw_pages/30.txt",
+        "start": 217,
+        "end": 1090
+    },
+    {
+        "id": "31",
+        "title": "Великий мофф Таркин",
+        "url": "https://en.wikipedia.org/wiki/Grand_Moff_Tarkin",
+        "source_file": "raw_pages/31.txt",
+        "start": 3212,
+        "end": 4078
+    }
+]

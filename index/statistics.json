@@ -1,0 +1,15 @@
+{
+    "model": "intfloat/multilingual-e5-small",
+    "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+    "dimension": 384,
+    "language": "ru",
+    "max_tokens": 512,
+    "prefixes": {
+        "query": "query: ",
+        "document": "passage: "
+    },
+    "documents": 30,
+    "chunks": 31,
+    "attack_included": true,
+    "indexing_seconds": 2.977
+}
