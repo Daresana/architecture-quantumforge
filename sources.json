@@ -1,0 +1,194 @@
+[
+    {
+        "id": "01",
+        "title": "Luke Skywalker",
+        "url": "https://en.wikipedia.org/wiki/Luke_Skywalker",
+        "title_ru": "Люк Скайуокер"
+    },
+    {
+        "id": "02",
+        "title": "Princess Leia",
+        "url": "https://en.wikipedia.org/wiki/Princess_Leia",
+        "title_ru": "Принцесса Лея"
+    },
+    {
+        "id": "03",
+        "title": "Han Solo",
+        "url": "https://en.wikipedia.org/wiki/Han_Solo",
+        "title_ru": "Хан Соло"
+    },
+    {
+        "id": "04",
+        "title": "Chewbacca",
+        "url": "https://en.wikipedia.org/wiki/Chewbacca",
+        "title_ru": "Чубакка"
+    },
+    {
+        "id": "05",
+        "title": "Darth Vader",
+        "url": "https://en.wikipedia.org/wiki/Darth_Vader",
+        "title_ru": "Дарт Вейдер"
+    },
+    {
+        "id": "06",
+        "title": "Obi-Wan Kenobi",
+        "url": "https://en.wikipedia.org/wiki/Obi-Wan_Kenobi",
+        "title_ru": "Оби-Ван Кеноби"
+    },
+    {
+        "id": "07",
+        "title": "Yoda",
+        "url": "https://en.wikipedia.org/wiki/Yoda",
+        "title_ru": "Йода"
+    },
+    {
+        "id": "08",
+        "title": "Palpatine",
+        "url": "https://en.wikipedia.org/wiki/Palpatine",
+        "title_ru": "Палпатин"
+    },
+    {
+        "id": "09",
+        "title": "R2-D2",
+        "url": "https://en.wikipedia.org/wiki/R2-D2",
+        "title_ru": "R2-D2"
+    },
+    {
+        "id": "10",
+        "title": "C-3PO",
+        "url": "https://en.wikipedia.org/wiki/C-3PO",
+        "title_ru": "C-3PO"
+    },
+    {
+        "id": "11",
+        "title": "Boba Fett",
+        "url": "https://en.wikipedia.org/wiki/Boba_Fett",
+        "title_ru": "Боба Фетт"
+    },
+    {
+        "id": "12",
+        "title": "Jabba the Hutt",
+        "url": "https://en.wikipedia.org/wiki/Jabba_the_Hutt",
+        "title_ru": "Джабба Хатт"
+    },
+    {
+        "id": "13",
+        "title": "Lando Calrissian",
+        "url": "https://en.wikipedia.org/wiki/Lando_Calrissian",
+        "title_ru": "Лэндо Калриссиан"
+    },
+    {
+        "id": "14",
+        "title": "Rey (Star Wars)",
+        "url": "https://en.wikipedia.org/wiki/Rey_%28Star_Wars%29",
+        "title_ru": "Рей"
+    },
+    {
+        "id": "15",
+        "title": "Finn (Star Wars)",
+        "url": "https://en.wikipedia.org/wiki/Finn_%28Star_Wars%29",
+        "title_ru": "Финн"
+    },
+    {
+        "id": "16",
+        "title": "Poe Dameron",
+        "url": "https://en.wikipedia.org/wiki/Poe_Dameron",
+        "title_ru": "По Дэмерон"
+    },
+    {
+        "id": "17",
+        "title": "Kylo Ren",
+        "url": "https://en.wikipedia.org/wiki/Kylo_Ren",
+        "title_ru": "Кайло Рен"
+    },
+    {
+        "id": "18",
+        "title": "Supreme Leader Snoke",
+        "url": "https://en.wikipedia.org/wiki/Supreme_Leader_Snoke",
+        "title_ru": "Верховный лидер Сноук"
+    },
+    {
+        "id": "19",
+        "title": "Maz Kanata",
+        "url": "https://en.wikipedia.org/wiki/Maz_Kanata",
+        "title_ru": "Маз Каната"
+    },
+    {
+        "id": "20",
+        "title": "Padmé Amidala",
+        "url": "https://en.wikipedia.org/wiki/Padm%C3%A9_Amidala",
+        "title_ru": "Падме Амидала"
+    },
+    {
+        "id": "21",
+        "title": "Qui-Gon Jinn",
+        "url": "https://en.wikipedia.org/wiki/Qui-Gon_Jinn",
+        "title_ru": "Квай-Гон Джинн"
+    },
+    {
+        "id": "22",
+        "title": "Mace Windu",
+        "url": "https://en.wikipedia.org/wiki/Mace_Windu",
+        "title_ru": "Мейс Винду"
+    },
+    {
+        "id": "23",
+        "title": "Count Dooku",
+        "url": "https://en.wikipedia.org/wiki/Count_Dooku",
+        "title_ru": "Граф Дуку"
+    },
+    {
+        "id": "24",
+        "title": "General Grievous",
+        "url": "https://en.wikipedia.org/wiki/General_Grievous",
+        "title_ru": "Генерал Гривус"
+    },
+    {
+        "id": "25",
+        "title": "Ahsoka Tano",
+        "url": "https://en.wikipedia.org/wiki/Ahsoka_Tano",
+        "title_ru": "Асока Тано"
+    },
+    {
+        "id": "26",
+        "title": "Captain Rex",
+        "url": "https://en.wikipedia.org/wiki/Captain_Rex",
+        "title_ru": "Капитан Рекс"
+    },
+    {
+        "id": "27",
+        "title": "Ezra Bridger",
+        "url": "https://en.wikipedia.org/wiki/Ezra_Bridger",
+        "title_ru": "Эзра Бриджер"
+    },
+    {
+        "id": "28",
+        "title": "Sabine Wren",
+        "url": "https://en.wikipedia.org/wiki/Sabine_Wren",
+        "title_ru": "Сабин Врен"
+    },
+    {
+        "id": "29",
+        "title": "Hera Syndulla",
+        "url": "https://en.wikipedia.org/wiki/Hera_Syndulla",
+        "title_ru": "Гера Синдулла"
+    },
+    {
+        "id": "30",
+        "title": "Grand Admiral Thrawn",
+        "url": "https://en.wikipedia.org/wiki/Grand_Admiral_Thrawn",
+        "title_ru": "Гранд-адмирал Траун"
+    },
+    {
+        "id": "31",
+        "title": "Grand Moff Tarkin",
+        "url": "https://en.wikipedia.org/wiki/Grand_Moff_Tarkin",
+        "title_ru": "Великий мофф Таркин"
+    },
+    {
+        "id": "32",
+        "title": "Mon Mothma",
+        "url": "https://en.wikipedia.org/wiki/Mon_Mothma",
+        "title_ru": "Мон Мотма"
+    }
+]
